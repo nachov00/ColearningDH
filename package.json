@@ -1,0 +1,23 @@
+{
+  "name": "clasecolearning",
+  "version": "1.0.0",
+  "description": "clase de apoyo",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js",
+    "server": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nachov00/ColearningDH.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nachov00/ColearningDH/issues"
+  },
+  "homepage": "https://github.com/nachov00/ColearningDH#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
